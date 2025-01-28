@@ -1,1 +1,2 @@
-# yuliya-qa-26012025.github.io
+# cv_test
+Сайт-визика на HTML + CSS + JS
